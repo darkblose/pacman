@@ -10,6 +10,6 @@
 3. 고스트 추가
 
 ![3  고스트 추가](https://user-images.githubusercontent.com/56018219/147823121-fdd86ca3-0b82-4885-baa9-570ef24ddb87.jpg)
-4. 2P 
+4. 2P 추가
 
 ![4  2P 추가](https://user-images.githubusercontent.com/56018219/147823123-3065cd47-021b-4fed-8b49-96e90d556ccb.jpg)
